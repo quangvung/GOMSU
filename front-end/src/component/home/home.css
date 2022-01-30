@@ -154,3 +154,68 @@
 
   color: #f4d58d;
 }
+
+.nguongoc {
+  position: absolute;
+  width: 344.87px;
+  height: 74px;
+  left: 574.86px;
+  top: 1345.09px;
+
+  font-family: UTM Davida;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 62px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #f4d58d;
+}
+
+.p_nguongoc {
+  position: absolute;
+  width: 709.73px;
+  height: 379px;
+  left: 210px;
+  top: 1286.83px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.btn_xemthem {
+  position: absolute;
+  width: 181.16px;
+  height: 95.23px;
+  left: 738.53px;
+  top: 1558.64px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #f4d58d;
+}
+
+.img_nguocgoc {
+  position: absolute;
+  width: 859px;
+  height: 574px;
+  left: 1061px;
+  top: 1180px;
+}
