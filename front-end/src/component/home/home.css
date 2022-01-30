@@ -1,0 +1,72 @@
+.div_home {
+  background-image: url("../../image/home.png");
+  width: 100vw;
+  position: absolute;
+  height: 1037.55px;
+  left: -0.27px;
+  top: 0.45px;
+  transform: rotate(-0.02deg);
+}
+
+.h1_home {
+  position: absolute;
+  width: 692px;
+  height: 205.2px;
+  left: 593.47px;
+  top: 341.95px;
+
+  font-family: "UTM Davida";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 140px;
+  line-height: 181px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #f4d58d;
+
+  transform: rotate(-0.16deg);
+}
+
+.p_home {
+  position: absolute;
+  width: 692px;
+  height: 291.02px;
+  left: 593.74px;
+  top: 439.93px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+
+  transform: rotate(-0.16deg);
+}
+
+.btn_home {
+    position: absolute;
+    width: 302.42px;
+    height: 93.13px;
+    left: 763.8px;
+    top: 637.36px;
+    
+    font-family: "SVN-Aptima";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 66px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #F4D58D;
+    
+    transform: rotate(-0.16deg);
+}
