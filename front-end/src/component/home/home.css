@@ -51,22 +51,106 @@
 }
 
 .btn_home {
-    position: absolute;
-    width: 302.42px;
-    height: 93.13px;
-    left: 763.8px;
-    top: 637.36px;
-    
-    font-family: "SVN-Aptima";
-    font-style: normal;
-    font-weight: normal;
-    font-size: 48px;
-    line-height: 66px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    
-    color: #F4D58D;
-    
-    transform: rotate(-0.16deg);
+  position: absolute;
+  width: 302.42px;
+  height: 93.13px;
+  left: 763.8px;
+  top: 637.36px;
+
+  font-family: "SVN-Aptima";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 66px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #f4d58d;
+
+  transform: rotate(-0.16deg);
+}
+
+.img_gom1 {
+  position: absolute;
+  width: 339.94px;
+  height: 635px;
+  left: 397.94px;
+  top: 267px;
+  background-blend-mode: lighten;
+  filter: drop-shadow(53px 4px 47px rgba(0, 0, 0, 0.3));
+}
+
+.text_gomsubattrang {
+  position: absolute;
+  width: 429.49px;
+  height: 114px;
+  left: 869.86px;
+  top: 450px;
+
+  font-family: UTM Davida;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 62px;
+  display: flex;
+  align-items: center;
+
+  color: #f4d58d;
+}
+
+.p_sec2 {
+  position: absolute;
+  width: 607.89px;
+  height: 103px;
+  left: 869.86px;
+  top: 528px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+
+.btn_xemthem {
+  position: absolute;
+  width: 181.21px;
+  height: 96px;
+  left: 872.68px;
+  top: 616px;
+
+  font-family: SVN-Aptima;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #f4d58d;
+}
+
+.btn_sanpham {
+  position: absolute;
+  width: 239.96px;
+  height: 96px;
+  left: 1104.82px;
+  top: 616px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #f4d58d;
 }
