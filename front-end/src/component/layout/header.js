@@ -1,7 +1,7 @@
 import React from 'react';
 import Logo from '../../image/logolangsom4 1.png';
-import {ShoppingCartIcon} from '@mui/icons-material/ShoppingCart';
-import {AccountCircleIcon} from '@mui/icons-material/AccountCircle';
+/* import {ShoppingCartIcon} from '@mui/icons-material/ShoppingCart';
+import {AccountCircleIcon} from '@mui/icons-material/AccountCircle'; */
 import './header.css';
 
 function header() {
@@ -21,8 +21,8 @@ function header() {
           Cửa hàng
       </h2>
 
-      <svg className="account_circle" data-testid={AccountCircleIcon}></svg>
-      <svg className="shopping_cart" data-testid={ShoppingCartIcon}></svg>
+{/*       <svg className="account_circle" data-testid={AccountCircleIcon}></svg>
+      <svg className="shopping_cart" data-testid={ShoppingCartIcon}></svg> */}
   </div>;
 }
 

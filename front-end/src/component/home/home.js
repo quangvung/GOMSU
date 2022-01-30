@@ -3,6 +3,7 @@ import './home.css';
 
 function home() {
   return <div className="div_home">
+    <section className="sec1">
       <h1 className="h1_home">
          LÀNG SỐM
       </h1>
@@ -12,6 +13,13 @@ function home() {
       <button className="btn_home">
           BẮT ĐẦU
       </button>
+      </section>
+
+      <section className="sec2">
+<div>
+  
+</div>
+      </section>
   </div>;
 }
 
