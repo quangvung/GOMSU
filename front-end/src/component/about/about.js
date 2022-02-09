@@ -25,63 +25,40 @@ function about() {
 
       <div className="div2">
         <h3 className="thanhvien"> THÀNH VIÊN </h3>
+        <div>
+          <div className="col1">
+            <img className="img_long" src={Long} />
+            <h4 className="name_long">PHẠM THIÊN LONG</h4>
+            <a href="https://www.facebook.com">
+              <FacebookIcon className="fb_long"/>
+            </a>
+            <a href="https://www.instagram.com">
+              <InstagramIcon className="ins_long"/>
+            </a>
+          </div>
 
-        <table>
-          <tr>
-            <td className="col-1">
-              <img className="img_long" src={Long} />
-            </td>
-
-            <td className="col-2">
-              <img className="img_trung" src={Trung} />
-            </td>
-
-            <td className="col-3">
-              <img className="img_thuy" src={Thuy} />
-            </td>
-          </tr>
-
-          <tr>
-            <td>
-              <h4 className="name_long">PHẠM THIÊN LONG</h4>
-            </td>
-            <td>
-              <h4 className="name_trung">PHAN NHẬT TRUNG</h4>
-            </td>
-            <td>
-              <h4 className="name_thuy">ĐỖ THỊ MINH THÙY</h4>
-            </td>
-          </tr>
-
-          <tr>
-            <td>
-              <a href="https://www.facebook.com">
-                <FacebookIcon />
+          <div className="col2">
+            <img className="img_trung" src={Trung} />
+            <h4 className="name_trung">PHAN NHẬT TRUNG</h4>
+            <a href="https://www.facebook.com">
+                <FacebookIcon className="fb_trung"/>
               </a>
-              <a href="https://www.instagram.com">
-                <InstagramIcon />
-              </a>
-            </td>
+            <a href="https://www.instagram.com">
+              <InstagramIcon className="ins_trung"/>
+            </a>
+          </div>
 
-            <td>
-              <a href="https://www.facebook.com">
-                <FacebookIcon />
-              </a>
-              <a href="https://www.instagram.com">
-                <InstagramIcon />
-              </a>
-            </td>
-
-            <td>
-              <a href="https://www.facebook.com">
-                <FacebookIcon />
-              </a>
-              <a href="https://www.instagram.com">
-                <InstagramIcon />
-              </a>
-            </td>
-          </tr>
-        </table>
+          <div className="col3">
+            <img className="img_thuy" src={Thuy} />
+            <h4 className="name_thuy">ĐỖ THỊ MINH THÙY</h4>
+            <a href="https://www.facebook.com">
+                <FacebookIcon className="fb_thuy"/>
+            </a>
+            <a href="https://www.instagram.com">
+                <InstagramIcon className="ins_thuy"/>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );

@@ -1,5 +1,4 @@
 .div_about {
-    background-color: black;
 }
 
 .vechungtoi {
@@ -75,8 +74,8 @@
   position: absolute;
   width: 345px;
   height: 456px;
-  left: 210px;
   top: 1350px;
+  left: 210px;
 }
 
 .img_trung {
@@ -99,9 +98,8 @@
   position: absolute;
   width: 345px;
   height: 62px;
-  left: 210px;
   top: 1861px;
-
+  left: 210px;
   font-family: UTM Davida;
   font-style: normal;
   font-weight: normal;
@@ -118,7 +116,7 @@
   position: absolute;
   width: 406px;
   height: 60px;
-  left: 757px;
+  left: 827px;
   top: 1862px;
 
   font-family: UTM Davida;
@@ -137,7 +135,7 @@
   position: absolute;
   width: 345px;
   height: 78px;
-  left: 1365px;
+  left: 1405px;
   top: 1853px;
 
   font-family: UTM Davida;
@@ -152,3 +150,56 @@
   color: #ffffff;
 }
 
+.fb_long{
+  position: absolute;
+  width: 345px;
+  height: 62px;
+  top: 1961px;
+  left: 290px;
+  background: #DADADA;
+}
+
+.ins_long{
+  position: absolute;
+  width: 345px;
+  height: 62px;
+  top: 1961px;
+  left: 320px;
+  background: #DADADA;
+}
+
+.fb_trung{
+  position: absolute;
+  width: 345px;
+  height: 62px;
+  top: 1961px;
+  left: 937px;
+  background: #DADADA;
+}
+
+.ins_trung{
+  position: absolute;
+  width: 345px;
+  height: 62px;
+  top: 1961px;
+  left: 967px;
+  background: #DADADA;
+}
+
+.fb_thuy{
+  position: absolute;
+  width: 345px;
+  height: 62px;
+  top: 1961px;
+  left: 1515px;
+  background: #DADADA;
+}
+
+.ins_thuy{
+  position: absolute;
+  width: 345px;
+  height: 62px;
+  top: 1961px;
+  left: 1545px;
+  background: #DADADA;
+}
