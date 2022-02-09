@@ -11,10 +11,9 @@ import Rectangle48 from "../../image/rectangle48.png";
 import Rectangle49 from "../../image/rectangle49.png";
 import Arrowright from "../../image/arrow-right.png";
 
-/* import Iconarrow from "../../image/angle-arrow-down_icon-icons.com_73683.png";
- */
-/* import {ArrowForwardIosIcon} from "@mui/icons-material/ArrowForwardIos";
-import {ArrowBackIosIcon} from "@mui/icons-material/ArrowBackIos"; */
+import KeyboardArrowUpIcon from "@material-ui/icons/KeyboardArrowUp";
+import ArrowForwardIosIcon from "@material-ui/icons/ArrowForwardIos";
+import ArrowBackIosIcon from "@material-ui/icons/ArrowBackIos";
 
 function home() {
   return (
@@ -33,8 +32,8 @@ function home() {
       <div className="div2">
         <div>
           <div>
-            {/*           <svg className="account_circle" data-testid={ArrowForwardIosIcon}></svg>
-             */}{" "}
+                  <ArrowForwardIosIcon className=""/>
+             
           </div>
           <div>
             <section id="1">
@@ -76,7 +75,7 @@ function home() {
           </div>
 
           <div>
-            {/*          <svg className="account_circle" data-testid={ArrowBackIosIcon}></svg> */}
+         <ArrowBackIosIcon className="" />
           </div>
         </div>
 
@@ -157,7 +156,7 @@ function home() {
             tâm gốm lớn.
           </p>
 
-          {/*           <img className="iconarrow" src={Iconarrow} /> */}
+         <KeyboardArrowUpIcon className="" />
         </div>
 
         <div>

@@ -1,0 +1,154 @@
+.div_about {
+    background-color: black;
+}
+
+.vechungtoi {
+  position: absolute;
+  width: 383.06px;
+  height: 118.67px;
+  left: 210px;
+  top: 397.9px;
+
+  font-family: UTM Davida;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  line-height: 71px;
+  display: flex;
+  align-items: center;
+
+  color: #f4d58d;
+}
+
+.lorem {
+  position: absolute;
+  width: 585px;
+  height: 196.73px;
+  left: 210px;
+  top: 511.36px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.rectangle {
+  position: absolute;
+  width: 735px;
+  height: 672px;
+  left: 970px;
+  top: 266px;
+}
+
+.ellipse {
+  position: absolute;
+  width: 301px;
+  height: 301px;
+  left: 1231px;
+  top: 199px;
+}
+
+.thanhvien {
+  position: absolute;
+  width: 406px;
+  height: 114px;
+  left: 757px;
+  top: 1120px;
+
+  font-family: UTM Davida;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 78px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #f4d58d;
+}
+
+.img_long {
+  position: absolute;
+  width: 345px;
+  height: 456px;
+  left: 210px;
+  top: 1350px;
+}
+
+.img_trung {
+  position: absolute;
+  width: 406px;
+  height: 538px;
+  left: 757px;
+  top: 1309px;
+}
+
+.img_thuy {
+  position: absolute;
+  width: 345px;
+  height: 458px;
+  left: 1365px;
+  top: 1349px;
+}
+
+.name_long {
+  position: absolute;
+  width: 345px;
+  height: 62px;
+  left: 210px;
+  top: 1861px;
+
+  font-family: UTM Davida;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.name_trung {
+  position: absolute;
+  width: 406px;
+  height: 60px;
+  left: 757px;
+  top: 1862px;
+
+  font-family: UTM Davida;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.name_thuy {
+  position: absolute;
+  width: 345px;
+  height: 78px;
+  left: 1365px;
+  top: 1853px;
+
+  font-family: UTM Davida;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
