@@ -8,7 +8,7 @@ import SearchIcon from "@material-ui/icons/Search";
 function contact() {
   return (
     <div>
-      <div classname="div1">
+      <div className="div1">
         <p>
           Trụ sở chính: 214 Vạn Kiếp, phường 3, quận Bình Thạnh, TPHCM Email:
           langsomvn@gmail.com Website: langsomvn.com Khung giờ làm việc: 8h30 -
@@ -26,10 +26,8 @@ function contact() {
       </div>
 
       <div className="div2">
-        <input type="text">Tìm địa chỉ chi nhánh gần bạn</input>
-        <SearchIcon className="" />
-
-        
+        <input type="text"/>
+        <SearchIcon/>
       </div>
     </div>
   );
