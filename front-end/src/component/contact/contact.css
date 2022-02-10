@@ -1,0 +1,71 @@
+.div_contact {
+    background: #001427;
+}
+
+.p_text {
+/*   position: absolute; */
+  width: 547px;
+  height: 350px;
+  left: 210px;
+  top: 396px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 37px;
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+
+.youtube {
+/*   position: absolute; */
+  width: 48.58px;
+  height: 35.33px;
+  left: 2.21px;
+  top: 8.83px;
+
+  background: #dadada;
+}
+
+.fb {
+  position: absolute;
+  width: 44.17px;
+  height: 44.17px;
+  left: 4.42px;
+  top: 4.42px;
+
+  background: #dadada;
+}
+
+.ins {
+  position: absolute;
+  width: 44.17px;
+  height: 44.17px;
+  left: 4.42px;
+  top: 4.42px;
+
+  background: #dadada;
+}
+
+.search {
+/*   position: absolute; */
+  width: 770px;
+  height: 75px;
+  left: 940px;
+  top: 304px;
+
+  border: 3px solid #f4d58d;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+.map {
+/*   position: absolute;
+ */  width: 770px;
+  height: 462px;
+  left: 940px;
+  top: 415px;
+}
